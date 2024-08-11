@@ -1,18 +1,18 @@
 # DRAGON_BUGBOTBOT
    <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <p align="center">
-<img src="https://i.imgur.com/o3rgLGK.jpeg"/> 
+<img src="https://telegra.ph/file/1335d3dde45b461134016.jpg"/> 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=+_____VENOM+2_____;WHATSAPP+CRASH+x+BUG+BOT;DEVELOPED+BY+DAVID+CYRIL;REALESE+DATE+21%2F6%2F2024." alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=+_____VENOM+2_____;WHATSAPP+CRASH+x+BUG+BOT;DEVELOPED+BY+ARLO+DRAGON;REALESE+DATE+11%2F8%2F2024." alt="Typing SVG" /></a>
 </p>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 ### If you want to deploy somewhere else, upload your creds.json in session folder after getting pair code on replit. 
 
-### 1. <a href="https://github.com/DeeCeeXxx/Venom-2/fork"><img src="https://img.shields.io/badge/FORK-blue" alt="Click Here to fork Venom-2" width="70"></a>
+### 1. <a href="https://github.com/Kingdragony/DRAGON_BUGBOT-V1/fork"><img src="https://img.shields.io/badge/FORK-blue" alt="Click Here to fork Venom-2" width="70"></a>
 ### 2. <a href="https://replit.com/@davidcyrilx2005/Xeon-PairCode-1"><img src="https://img.shields.io/badge/PAIR_CODE-red" alt="Click Here to Get Pair-Code" width="90"></a>
 ### 3. <a href="https://pylexnodes.net"><img src="https://img.shields.io/badge/DEPLOY ON PANEL-black" alt="Click Here to Deploy on Panel" width="120"></a>
-### 4. <a href='https://replit.com/github/Deeceexxx/Venom-2' target="_blank"><img alt='Deploy On Replit' src='https://img.shields.io/badge/-Deploy On Replit-red?style=for-the-badge&logo=replit&logoColor=white'/></a>
+### 4. <a href='https://replit.com/github/Kingdragony/DRAGON_BUGBOT-V1' target="_blank"><img alt='Deploy On Replit' src='https://img.shields.io/badge/-Deploy On Replit-red?style=for-the-badge&logo=replit&logoColor=white'/></a>
 ## Watch Tutorial videos.
 * [![YOUTUBE](https://img.shields.io/badge/HOW_TO_DEPLOY-red?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/4LuZuByZNwI?si=ZTUB9awhKPD9iIVo)
 
@@ -119,7 +119,7 @@ npm i -g forever && forever index.js && forever save && forever logs
 > git clone https://github.com/DeeCeeXxx/Venom-2.git
 ```
 ```
-> cd Venom-2
+> cd DRAGON_BUGBOT-V1
 ```
 ```
 > yarn install
