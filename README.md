@@ -19,7 +19,7 @@
 
 </br>
 
-#### COPY THESE COMMANDS AND PASTE IF YOU TRYING TO DEPLOY [VENOM-2](https://github.com/DeeCeeXxx/Venom-2) ON ANY TERMINAL
+#### COPY THESE COMMANDS AND PASTE IF YOU TRYING TO DEPLOY [DRAGON_BUGBOT-V1](https://github.com/DRAGON_BUGBOT-V1,,zz) ON ANY TERMINAL
 ```
 sudo apt -y update && sudo apt -y upgrade
 ```
@@ -42,10 +42,10 @@ sudo npm install -g yarn
 sudo yarn global add pm2
 ```
 ```
-git clone https://github.com/type-your-username-here/Venom-2
+git clone https://github.com/type-your-username-here/DRAGON_BUGBOT-V1
 ```
 ```
-cd Venom-2
+cd DRAGON_BUGBOT-V1
 yarn install 
 npm start
 ```
@@ -90,7 +90,7 @@ pkg install yarn
 git clone (copy and paste your forked repo link not mine to save changes your changes) 
 ```
 ```
-cd Venom-2
+cd DRAGON_BUGBOT-V1
 ```
 ```
 yarn install
@@ -116,7 +116,7 @@ npm i -g forever && forever index.js && forever save && forever logs
 - [Download Libwebp](https://developers.google.com/speed/webp/download)
 
 ```cmd
-> git clone https://github.com/DeeCeeXxx/Venom-2.git
+> git clone https://github.com/Kingdragony/DRAGON_BUGBOT-V1
 ```
 ```
 > cd DRAGON_BUGBOT-V1
@@ -133,7 +133,7 @@ npm i -g forever && forever index.js && forever save && forever logs
  <br> 
 <p align="center">
 <a href="https://wa.me/254746764468"><img src="https://img.shields.io/badge/Contact -25D366?style=for-the-badge&logo=whatsapp&logoColor=dark green" />
-<a href="https://whatsapp.com/channel/0029VaNPPwR30LKQk437x51Q"><img src="https://img.shields.io/badge/Join Official Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://whatsapp.com/channel/0029VaNPPwR30LKQk437x51Q"><img src="https://img.shields.io/badge/Join Official Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=red" />
 <a href="https://whatsapp.com/channel/0029VaNPPwR30LKQk437x51Q"><img src="https://img.shields.io/badge/Subscribe-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://www.youtube.com/@HacktivistHive" /><br>
 <p align="center">
 <img alt="Development" width="250" src="https://media2.giphy.com/media/W9tBvzTXkQopi/giphy.gif?cid=6c09b952xu6syi1fyqfyc04wcfk0qvqe8fd7sop136zxfjyn&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" /> </p>
