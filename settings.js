@@ -5,14 +5,14 @@ const chalk = require('chalk')
 
 //contact details
 global.ownernomer = "254746764468"
-global.ownername = "ARLODRAGON"
-global.ytname = "DRAGON_BUGBOT-V1"
+global.ownername = "WULU"
+global.ytname = "WULU_BUGBOT-V1"
 global.socialm = "GitHub: kingdragony"
 global.location = "Africa, kenya, Bomet"
 
-global.ownernumber = '254746764468,254746764468,254746764468'  //creator number
-global.ownername = 'DRAGON' //owner name
-global.botname = 'DRAGON_BUGBOT-V1™' //name of the bot
+global.ownernumber = '2347063859672,254746764468,254746764468'  //creator number
+global.ownername = 'WULU' //owner name
+global.botname = 'WULU_BUGBOT-V1™' //name of the bot
 
 //sticker details
 global.packname = 'Sticker By'
@@ -31,7 +31,7 @@ global.prefa = ['','!','.','#','&']
 //false=disable and true=enable
 global.autoRecording = false //auto recording
 global.autoTyping = false //auto typing
-global.autorecordtype = true //auto typing + recording
+global.autorecordtype = false //auto typing + recording
 global.autoread = false //auto read messages
 global.autobio = false //auto update bio
 global.anti92 = false //auto block +92 
